@@ -1,0 +1,9 @@
+= Unity Superhot Demo
+
+This is a simple demo of implementing the https://superhotgame.com/[Superhot] time/movement mechanics in https://unity3d.com[Unity].
+
+In this demo, there is a single scene where the player (blue guy) is being chased by two enemies (red guys). There is also a rain like effect because it looks cool with the time mechanic.
+
+Here is what the scene looks like in action:
+
+image:Docs\demo.gif["Superhot Mechanic Demo", link="Docs\demo.gif"]
